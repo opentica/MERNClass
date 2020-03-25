@@ -1,6 +1,6 @@
 {
   "name": "merncourse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "social network for devoplers",
   "main": "server.js",
   "scripts": {
